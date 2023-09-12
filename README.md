@@ -1,4 +1,4 @@
-<center>![吓](吓.jpg)</center>
+<img src="吓.jpg" aligh="center">
 
 <h1 align="center">Hi, I'm Kenneth</h1>
 <h3 align="center">A young people who want to be all-rounders developer</h3>
