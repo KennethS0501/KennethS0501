@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Kenneth</h1>
 <h3 align="center">A young people who want to be all-rounders developer</h3>
 
-- Practice projects that i have more confidence will be posted here
+- Practice projects that I have more confidence in will be posted here
 - Nothing has been achieved yet
 
 
